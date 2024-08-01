@@ -1,0 +1,109 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border: 3px solid;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+.logo {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-left: 150px;
+}
+
+.qr {
+    height: 80px;
+    width: 80px;
+}
+
+#hicet {
+    text-align: center;
+}
+
+.txt3 {
+    margin: 10px 0;
+}
+
+.txt4, .txt5, .txt6 {
+    text-align: center;
+}
+
+.txt6 {
+    margin-top: 10px;
+    margin-left: 500px;
+}
+
+.txt7, .txt8, .txt9, .txt10 {
+    margin: 0;
+    padding: 5px 0;
+}
+
+#div1, #div2 {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+#sub {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.datas {
+    margin-left: 20px;
+}
+
+#input1 {
+    display: flex;
+    gap: 10px;
+}
+.text-center{
+    display: flex;
+   
+}
+.but1{
+    border-radius: 10px;
+    height: 40px;
+    margin-top: 10px;
+    width: 50px;
+}
+.grand{
+    /* float: right;
+    margin-left: 850px;  */
+    border: 1px solid;
+    text-align: center;
+    margin-top: 
+}
+#result{
+    border: 1px solid;
+}
+#sr{
+    display: flex;
+
+}
+.txt2{
+    margin-left: 5px;
+    margin-top: -2px;
+}
+.t2{
+margin-left: 40px;
+}
+.t3{
+    margin-left: 40px;
+    }
